@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591671957 source:d:\ywj\1.教学工作\讲授课程_资料\计算机网络技术\实验程序\tcpserver2\tcpserver2.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+	<pthread.h>
+

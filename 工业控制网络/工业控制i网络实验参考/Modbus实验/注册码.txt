@@ -1,0 +1,6 @@
+
+modbus poll 4.3.4зЂВсТыЃК9876543210ABCDEFGHIJ9813
+
+Modbus Slave version 4.3.1зЂВсТыЃК9876543210ABCDEFGHIJ5295
+
+
